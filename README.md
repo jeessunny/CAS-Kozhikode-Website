@@ -1,4 +1,4 @@
-CAS Kozhikode Website
+##CAS Kozhikode Website
 
 A static single-file website for **College of Applied Science Kozhikode**, an institution under IHRD, Government of Kerala.
 
