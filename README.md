@@ -31,8 +31,8 @@ The original HTML was taken from the live IHRD-hosted site and reworked from scr
 ---
 
 ## Usage
-To see the website click the link below 
-
+To see the website, click the link below.
+**https://jeessunny.github.io/CAS-Kozhikode-Website/**
 
 ---
 
