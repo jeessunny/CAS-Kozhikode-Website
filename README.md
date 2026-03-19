@@ -40,11 +40,3 @@ The original HTML was taken from the live IHRD-hosted site and reworked from scr
 Reworked with the help of **Claude AI** by Anthropic.
 
 ---
-
-## Institution
-
-**College of Applied Science Kozhikode**  
-Balan.K.Nair Road, Kiliyanad Post  
-Kozhikode District – 673 001, Kerala  
-Affiliated to University of Calicut · Est. 1993  
-Under IHRD, Government of Kerala · [ihrd.ac.in](https://ihrd.ac.in)
